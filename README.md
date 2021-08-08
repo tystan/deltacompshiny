@@ -32,6 +32,14 @@ library(shiny)
 runApp()
 ```
 
+## Example data
+
+An example data file can be found in the [`csv/`](https://github.com/tystan/deltacompshiny/tree/main/csv) directory.
+
+These data are a comma separated value file of the data found in [Fairclough et al. (2017)](https://doi.org/10.1186/s12966-017-0521-z). 
+
+
+
 ## Screenshots
 
 ![Opening page: upload text file](fig/ss1.png)
