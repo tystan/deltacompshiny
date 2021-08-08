@@ -6,7 +6,7 @@ An R Shiny App interface (web page) for the package deltacomp
 
 ## Description
 
-This is a Shiny App (interactive webpage) that allows the user to input a test file (csv, tsv, txt files) and apply compositional data analysis via a point-and-click interface. 
+This is a Shiny App (interactive webpage) that allows the user to input a text file of compositional data (csv, tsv, txt files) and apply compositional data analysis via a point-and-click interface. 
 
 This is to allow non R users to access the functionality contained in the [`deltacomp` package](https://github.com/tystan/deltacomp) by simply using a web interface.
 
